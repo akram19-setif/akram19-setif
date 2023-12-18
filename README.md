@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Djidel Akram</h1>
-<img src='https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif' alt="image-background" align="center" >
 <h3 align="center">A passionate Full Stack developer from Algeria</h3>
-
+<img  align="center" src='https://user-images.githubusercontent.com/74038190/212748842-9fcbad5b-6173-4175-8a61-521f3dbb7514.gif' alt="image-background">
 - 💬 Ask me about **React js , Next js , Typescript**
 
 - 📫 How to reach me **akramdjidel00@gmail.com**
